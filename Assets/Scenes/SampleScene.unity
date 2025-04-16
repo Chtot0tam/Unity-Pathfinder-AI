@@ -355,10 +355,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points:
-  - {x: -2.2644649, y: -2.5, z: -18.714289}
-  - {x: -0.81214714, y: -2.5, z: 2.6293077}
-  - {x: 4.2929144, y: -2.5, z: 2.5094304}
-  - {x: 4.307376, y: -2.5, z: -18.757532}
+  - {x: -2.5266035, y: -3.5, z: -18.853933}
+  - {x: 0.9712019, y: -3.5, z: -18.682512}
+  - {x: 0.94255733, y: -2.83, z: -13.057479}
+  - {x: -2.3569973, y: -3.5, z: -12.944367}
   mask:
     serializedVersion: 2
     m_Bits: 1
@@ -543,15 +543,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9069943803617497216, guid: 13c077684c305b942937566f3f3fbea5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.47
+      value: -1.75
       objectReference: {fileID: 0}
     - target: {fileID: 9069943803617497216, guid: 13c077684c305b942937566f3f3fbea5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.28
+      value: -2.36
       objectReference: {fileID: 0}
     - target: {fileID: 9069943803617497216, guid: 13c077684c305b942937566f3f3fbea5, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -17.27
+      value: -18.14
       objectReference: {fileID: 0}
     - target: {fileID: 9069943803617497216, guid: 13c077684c305b942937566f3f3fbea5, type: 3}
       propertyPath: m_LocalRotation.w
